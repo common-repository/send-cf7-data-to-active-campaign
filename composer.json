@@ -1,0 +1,14 @@
+{
+    "name": "activecampain/activecampain",
+    "description": "addphp composer.phar install using the ActiveCampaign PHP API wrapper with Composer.",
+    "authors": [{
+        "name": "Matt Thommes",
+        "email": "matt@activecampaign.com",
+        "homepage": "http://www.activecampaign.com",
+        "role": "Developer"
+    }],
+    "require": {
+        "activecampaign/api-php": "1.0.0"
+    },
+    "minimum-stability": "dev"
+}
